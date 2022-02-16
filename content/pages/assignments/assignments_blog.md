@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 52607be9-aea6-7507-7c9b-63208de1dc23
 title: Assignments Blog
 uid: 2f7103bb-0ef6-6b99-4167-f9c4053fcf47

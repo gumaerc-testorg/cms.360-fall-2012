@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Classroom Notes
+parent_type: CourseSection
 parent_uid: bb2b6672-555e-ea5b-16c9-9f46f09d4283
 title: Session 6
 uid: ddf53f7c-8a26-59f4-36ba-a69337cb5406

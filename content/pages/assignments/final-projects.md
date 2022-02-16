@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 52607be9-aea6-7507-7c9b-63208de1dc23
 title: Final Projects
 uid: 2344fcea-f07d-68a5-284d-387d04395fac
