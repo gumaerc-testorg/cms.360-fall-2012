@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Classroom Notes
 uid: bb2b6672-555e-ea5b-16c9-9f46f09d4283
 ---
