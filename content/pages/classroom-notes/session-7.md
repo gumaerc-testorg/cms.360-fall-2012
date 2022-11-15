@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides class notes for a session on civic maps.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Classroom Notes
@@ -84,4 +85,4 @@ Hands-on workshop:
 
 _In groups of 2–3, create an annotated critique of Kony2012 (using critical commons, Zeega, popcorn js, macro generators, or any tool of your choice. And/or: newsjack.in.)_
 
-[« return to classroom notes]({{< baseurl >}}/pages/classroom-notes)
+{{% resource_link "bb2b6672-555e-ea5b-16c9-9f46f09d4283" "« return to classroom notes" %}}

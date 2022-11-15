@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides class notes for a session on the relationship of
+  media technologies to social change.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Classroom Notes
@@ -21,4 +23,4 @@ In class:
 *   Individual sessions with instructor about final projects, and Mapping with Walking Papers (70 min)
 *   Work on final projects, sessions with instructor (1 hour)
 
-[« return to classroom notes]({{< baseurl >}}/pages/classroom-notes)
+{{% resource_link "bb2b6672-555e-ea5b-16c9-9f46f09d4283" "« return to classroom notes" %}}

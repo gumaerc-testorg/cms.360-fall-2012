@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the blogging assignments
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -67,4 +69,4 @@ Near the end of the semester, we'll revisit and rework our first posts on the na
 
 Blog post (required): Reread your first blog post for the course (your definition of Civic Media), and write a revised version with commentary. What changed, and what remained the same? What frameworks do you find most compelling? What are the key spaces for intervention in the future of Civic Media?
 
-« [Back to Assignments]({{< baseurl >}}/pages/assignments)
+« {{% resource_link "52607be9-aea6-7507-7c9b-63208de1dc23" "Back to Assignments" %}}
