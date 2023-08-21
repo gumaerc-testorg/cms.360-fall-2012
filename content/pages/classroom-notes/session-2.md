@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides class notes for a session on the 'crisis in journalism'
+  and digital inequalities.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Classroom Notes
@@ -25,4 +27,4 @@ There's also a lot of talk about participatory media as a panacea for the suppos
 
 **Note re: facilitation, scribing/blog teams**: don't forget to sign up for a facilitation/scribe/blog team for a session that interests you! Do this by selecting the session's title in the Google doc and adding your name in a comment.
 
-[« return to classroom notes]({{< baseurl >}}/pages/classroom-notes)
+{{% resource_link "bb2b6672-555e-ea5b-16c9-9f46f09d4283" "« return to classroom notes" %}}
