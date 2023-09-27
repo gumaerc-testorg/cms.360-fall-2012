@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides class notes for a session on free cultural labor.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Classroom Notes
@@ -21,4 +22,4 @@ In class:
 *   [The Free Culture Game](http://www.molleindustria.org/en/freeculturegame/) by Molleindustria (20 min)
 *   Hands-on Exercise: Attempt to create a model that would allow you to calculate the value of your social media labor. Drop in some best estimates and come up w/rough max-min. (30 min)
 
-[« return to classroom notes]({{< baseurl >}}/pages/classroom-notes)
+{{% resource_link "bb2b6672-555e-ea5b-16c9-9f46f09d4283" "« return to classroom notes" %}}

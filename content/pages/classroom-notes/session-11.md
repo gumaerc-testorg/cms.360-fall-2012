@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides class notes for a session on freedom of information.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Classroom Notes
@@ -29,4 +30,4 @@ In class:
     *   Are you willing to follow up on the request? Did you draft a request that requires (or suggests) substantial follow-up?
     *   Share with the class how far you got - and any lessons learned. \[10 min\]
 
-[« return to classroom notes]({{< baseurl >}}/pages/classroom-notes)
+{{% resource_link "bb2b6672-555e-ea5b-16c9-9f46f09d4283" "« return to classroom notes" %}}

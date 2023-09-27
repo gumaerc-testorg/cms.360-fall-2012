@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides guidelines and instruction for the final project
+  for the course, a list of deliverables, a list of potential themes, and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -42,7 +45,7 @@ Other potential themes:
 *   Review [IJOC Special Sections](http://ijoc.org/)
 *   [Collaborative Futures](http://collaborative-futures.org/)
 *   Suggestions from Henry
-*   Dougherty, Audobon. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_New Medium, New Practice: Civic Production in Live-Streaming Mobile Video_." (PDF - 1.9MB)](https://cms.mit.edu/civic-production-in-live-streaming-mobile-video/)
+*   Dougherty, Audobon. "[_New Medium, New Practice: Civic Production in Live-Streaming Mobile Video_." (PDF - 1.9MB)](https://cms.mit.edu/civic-production-in-live-streaming-mobile-video/)
 *   [Center for Civic Media and CMS theses](http://cms.mit.edu/research/theses.php)
 *   [Our World, Digitized: Cass Sunstein, Yochai Benkler, and Henry Jenkins](https://cmsw.mit.edu/yochai-benkler-and-cass-sunstein/)
 *   [Youth and Civic Engagement](https://commforum.mit.edu/youth-and-civic-engagement-d450f94cea4a)
@@ -54,7 +57,7 @@ Other potential themes:
 *   Cunningham, Dayna. "[Can African-Americans Find Their Voice in Cyberspace?](http://henryjenkins.org/2009/03/can_african-americans_find_the.html)" \[parts 1-4\]
 *   An essay by Joshua McVeigh-Schultz which explores issues of citizen voice and plebiscite entertainment, ending with some ideas for the design of civic media.
 *   Alexdrina Agloro on the differences that new media made in the Rodney King and Oscar Grant trials.
-*   Bimber, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Reconceptualizing Collective Action in the Contemporary Media Environment." (PDF)](http://ucsbsocialcomputing.pbworks.com/f/bimber,+et+al.pdf)
+*   Bimber, et al. "[Reconceptualizing Collective Action in the Contemporary Media Environment." (PDF)](http://ucsbsocialcomputing.pbworks.com/f/bimber,+et+al.pdf)
 *   [The Organic Internet](https://link.springer.com/chapter/10.1007/978-3-319-66592-4_13)
 
 Note: below you can find several examples of final projects from last year’s Intro to Civic Media class that received an 'A' grade.
@@ -63,4 +66,4 @@ Note: below you can find several examples of final projects from last year’s I
 *   Ania Shapiro, "[Digital Discourse and Civic Engagement in Ukraine](https://civic.mit.edu/2011/12/18/final-project-post/)."
 *   Hailey Lee and Mary Kenefake, "[Television Newsroom Diversity and Civic Engagement](https://civic.mit.edu/2011/12/20/television-newsroom-diversity-and-civic-engagement/)."
 
-« [Back to Assignments]({{< baseurl >}}/pages/assignments)
+« {{% resource_link "52607be9-aea6-7507-7c9b-63208de1dc23" "Back to Assignments" %}}

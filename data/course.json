@@ -28,7 +28,9 @@
   },
   "course_title": "Introduction to Civic Media",
   "course_description": "This course examines civic media in comparative, transnational and historical perspectives through the use of various theoretical tools, research approaches, and project design methods.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.860",
   "primary_course_number": "CMS.360",
   "course_image_thumbnail": {
@@ -37,8 +39,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Projects with Examples"
   ],
-  "site_uid": "7c35ccd1-d282-4ab2-aab9-6ae79f04f671",
+  "site_uid": "59b856f6-a141-4556-8480-7a35212d8919",
+  "site_short_id": "cms.360-fall-2012",
   "title": "Course Metadata"
 }
