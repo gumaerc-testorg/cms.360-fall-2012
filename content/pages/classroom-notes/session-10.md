@@ -18,6 +18,6 @@ Everyone from web startups to legacy media firms began to move to establish mode
 
 In class:
 
-*   We'll Watch: [This is What Democracy Looks Like](http://www.imdb.com/title/tt0265871/), or Miami Model
+*   We'll Watch: {{% resource_link "d941945d-02a4-48dd-8ead-dbe93f5d2799" "This is What Democracy Looks Like" %}}, or Miami Model
 
 {{% resource_link "bb2b6672-555e-ea5b-16c9-9f46f09d4283" "« return to classroom notes" %}}
