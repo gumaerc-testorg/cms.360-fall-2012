@@ -24,7 +24,7 @@ In class:
     *   How does (or might) the government keep the information?
     *   Do you actually want the information? Do you expect to be provided the information? (In some cases, for instance, you may not expect to get the information but you may want to prove a point or advance an issue by making the request, and, for instance, doing advocacy around the request, or around the denial of access to information.)
     *   Draft a FOI request based on the type of information you would like to get \[10 min\]. (There are few rules regarding format for information requests from most government entities. They can be more simple or complex depending on the kinds of information you are seeking—but simplicity is better; really difficult requests can, in some cases, be turned down). \[10 min\]
-    *   Share a copy of the request. If you want to submit online with [Muckrock](http://www.muckrock.com/) or [FOIA Online](https://foiaonline.gov/foiaonline/action/public/home). If you want to mail these, print it out now and we'll put these in the mail tomorrow.
+    *   Share a copy of the request. If you want to submit online with {{% resource_link "d502aaf9-ff95-4948-a54f-affb66802772" "Muckrock" %}} or {{% resource_link "5bcee9ab-f9cc-4e63-9638-c625979bc155" "FOIA Online" %}}. If you want to mail these, print it out now and we'll put these in the mail tomorrow.
     *   What information do you want to keep track of regarding these requests?
     *   Are you comfortable sharing any results publicly?
     *   Are you willing to follow up on the request? Did you draft a request that requires (or suggests) substantial follow-up?

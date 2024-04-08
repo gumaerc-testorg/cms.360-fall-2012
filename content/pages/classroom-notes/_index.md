@@ -9,7 +9,7 @@ title: Classroom Notes
 uid: bb2b6672-555e-ea5b-16c9-9f46f09d4283
 ---
 
-These notes cover an outline of class activities, and descriptions of hands-on workshops. For each session, there are one or more facilitators who will lead the discussion, and one or more scribes, who will take notes and live blog the session. To learn about live blogging, check out "[How To Liveblog Events With a Team](http://mediashift.org/2012/08/how-to-live-blog-as-a-team241/)" by Matt Stempeck.
+These notes cover an outline of class activities, and descriptions of hands-on workshops. For each session, there are one or more facilitators who will lead the discussion, and one or more scribes, who will take notes and live blog the session. To learn about live blogging, check out "{{% resource_link "28a10b32-0215-4946-a2af-5b9b6cb33a1d" "How To Liveblog Events With a Team" %}}" by Matt Stempeck.
 
 Each session should:
 
@@ -91,4 +91,4 @@ Andrew Lowenthal from Engagemedia.org, the Plumi project, and video4change will 
 Session 15: Final Project IGNITE Talks
 --------------------------------------
 
-During the last class meeting, each student (or project team) will formally present their final project as an [IGNITE talk](http://en.wikipedia.org/wiki/Ignite_(event)) (5 minutes, 20 slides, 15 seconds per slide, automatically advanced. Final projects are due. No late projects will be accepted. For more information about final projects, see the {{% resource_link "52607be9-aea6-7507-7c9b-63208de1dc23" "Assignments page" %}}.
+During the last class meeting, each student (or project team) will formally present their final project as an {{% resource_link "4c91de9b-1b9a-4fa5-b8a1-3a66c3383db9" "IGNITE talk" %}} (5 minutes, 20 slides, 15 seconds per slide, automatically advanced. Final projects are due. No late projects will be accepted. For more information about final projects, see the {{% resource_link "52607be9-aea6-7507-7c9b-63208de1dc23" "Assignments page" %}}.

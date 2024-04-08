@@ -49,38 +49,38 @@ The 'Crisis in Journalism' and Digital Inequalities
 
 **Core Texts**
 
-"[Bulletins from the Future](http://www.economist.com/node/18904136)," _The Economist_, July 11, 2011.
+"{{% resource_link "c1ba4cac-c065-49c1-bd24-d5c7122c90db" "Bulletins from the Future" %}}," _The Economist_, July 11, 2011.
 
-Hargittai, E. "[The Digital Reproduction of Inequality](http://webuse.org/p/c11/)." In _Social Stratification: Class, Race, and Gender in Sociological Perspective_. Edited by David Grusky. Westview Press, 2008, pp. 936–44. ISBN: 9780813343730.
+Hargittai, E. "{{% resource_link "a39c3a0a-b302-4a5f-a68a-4c27dd797421" "The Digital Reproduction of Inequality" %}}." In _Social Stratification: Class, Race, and Gender in Sociological Perspective_. Edited by David Grusky. Westview Press, 2008, pp. 936–44. ISBN: 9780813343730.
 
-Modarres, Ali and Bill Pitkin. "[Technology and The Geography Of Inequality In Los Angeles](http://www.distributedworkplace.com/DW/Research/Assessing%20the%20Digital%20Divide%20and%20Los%20Angeles%20County.pdf)." Pat Brown Public Policy Institute, 2006.
+Modarres, Ali and Bill Pitkin. "{{% resource_link "30576170-75dc-41f8-8749-bff6eabf7abc" "Technology and The Geography Of Inequality In Los Angeles" %}}." Pat Brown Public Policy Institute, 2006.
 
 MIT Communications Forum: "[What is Civic Media?](https://commforum.mit.edu/what-is-civic-media-b9c8d46652c3
             )" September 20, 2007.
 
 **Additional Texts**
 
-NTIA. [Falling Through the Net: Defining the Digital Divide](http://www.ntia.doc.gov/legacy/ntiahome/fttn99/contents.html), 1999.
+NTIA. {{% resource_link "12d22334-dd8a-4770-981c-69d7f281ed5b" "Falling Through the Net: Defining the Digital Divide" %}}, 1999.
 
-DiMaggio, Paul and Eszter Hargittai. ["From Digital Divide to Digital Inequality: Studying Internet Use as Penetration Increases](https://ideas.repec.org/p/pri/cpanda/workpap15.html.html)." Princeton University's Center for Arts and Cultural Policy Studies Working Paper Series, Summer 2011.
+DiMaggio, Paul and Eszter Hargittai. {{% resource_link "af8478fe-1dfe-4f11-a60c-f05aba54f3d4" "\"From Digital Divide to Digital Inequality: Studying Internet Use as Penetration Increases" %}}." Princeton University's Center for Arts and Cultural Policy Studies Working Paper Series, Summer 2011.
 
-Levine, Peter. "[Five Strategies to Revive Civic Communication](http://www.knightfoundation.org/reports/civic-engagement-and-community-information-five-st)." KnightComm, 2011.
+Levine, Peter. "{{% resource_link "8189b713-13ba-40c0-83a9-7c7b33e1d336" "Five Strategies to Revive Civic Communication" %}}." KnightComm, 2011.
 
-Federal Communications Commission. [Information Needs of Communities: The Changing Media Landscape In a Broadband Age](http://www.fcc.gov/info-needs-communities). 2001.
+Federal Communications Commission. {{% resource_link "316a7509-bc27-4d33-93af-1e3c58c15963" "Information Needs of Communities: The Changing Media Landscape In a Broadband Age" %}}. 2001.
 
-[Ashoka: Changemakers Citizen Media](http://www.changemakers.com/citizenmedia).
+{{% resource_link "949f0bd1-c294-4b5b-bb23-bba4dd953502" "Ashoka: Changemakers Citizen Media" %}}.
 
-Zuckerman, Ethan. "[What I Think We're Trying to Do](http://www.ethanzuckerman.com/blog/2007/05/10/what-i-think-were-trying-to-do/)." _My ...Heart's in Accra_, 2007.
+Zuckerman, Ethan. "{{% resource_link "2c3e1dad-d857-43a4-b95a-09d7aafa8d12" "What I Think We're Trying to Do" %}}." _My ...Heart's in Accra_, 2007.
 
-Knight Report. [The Knight Commission on the Information Needs of Communities in a Democracy](https://www.aspeninstitute.org/news/press-release/knight-commission-information-needs-communities-democracy-warns-second-class-citizen/).
+Knight Report. {{% resource_link "993d127e-75f5-481b-aeff-eab7a4a1aadf" "The Knight Commission on the Information Needs of Communities in a Democracy" %}}.
 
 **Browse**
 
-Browse Pew Internet Data: [Trend Data for Adults](http://www.pewinternet.org/Static-Pages/Trend-Data-(Adults).aspx) and [Trend Data for Teens](http://www.pewinternet.org/Static-Pages/Trend-Data-(Teens).aspx ).
+Browse Pew Internet Data: {{% resource_link "fe98380f-4efe-40a9-a9ac-4df861b795c9" "Trend Data for Adults" %}} and [Trend Data for Teens](http://www.pewinternet.org/Static-Pages/Trend-Data-(Teens).aspx ).
 
 Browse examples of participatory news sites: Global Voices Online, iReports, Indymedia, Al Jazeera's The Stream, etc
 
-Knight Report. "[Informing Communities: Sustaining Democracy in the Digital Age](http://www.knightfoundation.org/reports/informing-communities-sustaining-democracy-digital)." September 1, 2009.
+Knight Report. "{{% resource_link "b9446456-8770-40e6-acba-ff3f59e6b60e" "Informing Communities: Sustaining Democracy in the Digital Age" %}}." September 1, 2009.
 
 
 {{< tdclose >}}
@@ -100,9 +100,9 @@ Dialogic Approaches: From the Public Sphere to Networked Counterpublics
 
 Fraser, Nancy. "Rethinking the Public Sphere: A contribution to The Critique of Actually Existing Democracy." _Social Text_, nos. 25 and 26 (1990): 56–80.
 
-Squires, Catherine R. "[Rethinking the Black Public Sphere: An Alternative Vocabulary for Multiple Public Spheres](http://dx.doi.org/10.1111/j.1468-2885.2002.tb00278.x)." _Communication Theory_ 12, no. 4 (2002): 446–68. \[Also available from [Penn (PDF)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-2885.2002.tb00278.x).\]
+Squires, Catherine R. "{{% resource_link "92d22094-806a-4caa-8283-b865b54eb72a" "Rethinking the Black Public Sphere: An Alternative Vocabulary for Multiple Public Spheres" %}}." _Communication Theory_ 12, no. 4 (2002): 446–68. \[Also available from {{% resource_link "6013636c-75ad-476e-be25-3f4b5e021f23" "Penn (PDF)" %}}.\]
 
-Benkler, Yochai. "[The Emergence of a Networked Public Sphere](http://www.congo-education.net/wealth-of-networks/ch-07.htm)." Chapter 7 in _The Wealth of Networks: How Social Production Transforms Markets and Freedom_. Yale University Press, 2007. ISBN: 9780300125771.
+Benkler, Yochai. "{{% resource_link "80bd1df6-d8d3-42d7-9724-c0be54196555" "The Emergence of a Networked Public Sphere" %}}." Chapter 7 in _The Wealth of Networks: How Social Production Transforms Markets and Freedom_. Yale University Press, 2007. ISBN: 9780300125771.
 
 
 {{< tdclose >}}
@@ -124,19 +124,19 @@ Hegemony, Ideology, Resistance
 
 Selections from Downing, John D.H. _Radical Media: Rebellious Communication and Social Movements_. Sage Publications, Inc. 2001.
 
-Fanon, Frantz. "This is The Voice of Algeria." In _A Dying Colonialism_. [Translated by Haakon Chevalier](http://abahlali.org/wp-content/uploads/2011/04/Frantz-Fanon-A-Dying-Colonialism.pdf). Grove Press, first published in French in 1959 and in English in 1965. ISBN: 9780394172620.
+Fanon, Frantz. "This is The Voice of Algeria." In _A Dying Colonialism_. {{% resource_link "82896dd1-4888-46b4-82fa-3d58a43fb11c" "Translated by Haakon Chevalier" %}}. Grove Press, first published in French in 1959 and in English in 1965. ISBN: 9780394172620.
 
 Media Justice
 
 **Additional Texts**
 
-Cunningham, Dayna. "[Can African-Americans find Their Voice in Cyberspace?" \[parts 1-4\]](http://www.henryjenkins.org/2009/03/can_african-americans_find_the.html). _Confessions of an Aca-Fan: The Official Weblog of Henry Jenkins_, March 9, 2009.
+Cunningham, Dayna. "{{% resource_link "3141a981-4233-43fd-ae43-87bb05701154" "Can African-Americans find Their Voice in Cyberspace?\" \[parts 1-4\]" %}}. _Confessions of an Aca-Fan: The Official Weblog of Henry Jenkins_, March 9, 2009.
 
 **Browse**
 
-[Center For Media Justice](http://centerformediajustice.org/).
+{{% resource_link "2a5b178f-56d4-4a3c-8032-334bb1af6ec3" "Center For Media Justice" %}}.
 
-[Media Justice Resources](https://www.mediajusticehistoryproject.org/archives/151) at the [Media Justice History Project](http://mediajusticehistoryproject.org). Choose one to summarize and place in dialogue with the readings.
+{{% resource_link "734829bf-d795-4483-9f46-fd844f7d4a5b" "Media Justice Resources" %}} at the {{% resource_link "a790d124-9dbc-43a6-a1ce-70880fb51042" "Media Justice History Project" %}}. Choose one to summarize and place in dialogue with the readings.
 
 
 {{< tdclose >}}
@@ -154,24 +154,24 @@ Critical Political Economic Approaches: Is it the System or is it Propaganda? Ye
 
 **Core Texts**
 
-Garnham, Nicholas. "[Contribution To A Political Economy of Mass-Communication." (PDF)](http://dx.doi.org/10.1177/016344377900100202) _Media Culture Society_ 1, no. 2 (1979): 123–46.
+Garnham, Nicholas. "{{% resource_link "27c56770-432e-44c4-9740-d52e9d126f6f" "Contribution To A Political Economy of Mass-Communication.\" (PDF)" %}} _Media Culture Society_ 1, no. 2 (1979): 123–46.
 
 Chakravartty, Paula. "Introduction: Toward a Transcultural Political Economy of Global Communications." In _Global Communications: Toward a Transcultural Political Economy_. Edited by Paula Chakravartty and Yuezhi Zhao. Rowman & Littlefield Publishers, 2008. ISBN: 9780742540453.
 
-Read abstracts from the _[Media and Propaganda Conference](http://web4.uwindsor.ca/units/commstudies/propaganda.nsf/inToc/590562774EEB99B2852572DB0040358D%5C)_, assessing the Propaganda model 20 years on.
+Read abstracts from the _{{% resource_link "27d4df75-1bdc-490b-a9c0-ce9e07711b38" "Media and Propaganda Conference" %}}_, assessing the Propaganda model 20 years on.
 
 **Additional Texts**
 
-Uricchio, William. "[Displacing Culture: Trans-National Culture, Regional Elites, and the Challenge to National Cinema." (PDF)](http://web.mit.edu/uricchio/Public/pdfs/pdfs/Displacing%20Culture.pdf) In _Trading Culture: GATT, European Cultural Policies and the Transatlantic Market_. Edited by A. van Hemel, H. Mommas, C. Smithuijsen. Boekmanstichting, 1996, pp. 67–82.
+Uricchio, William. "{{% resource_link "5cc9b9f2-0d61-4131-96b6-8093872436fb" "Displacing Culture: Trans-National Culture, Regional Elites, and the Challenge to National Cinema.\" (PDF)" %}} In _Trading Culture: GATT, European Cultural Policies and the Transatlantic Market_. Edited by A. van Hemel, H. Mommas, C. Smithuijsen. Boekmanstichting, 1996, pp. 67–82.
 
 Selections from Herman, Edward S. and Noam Chomsky. [_Manufacturing Consent_ (PDF - 4MB)](https://focalizalaatencion.files.wordpress.com/2012/08/herman-chomsky-2002-manufacturingconsent.pdf
             ). Pantheon Books, 1988. (This is a link to a webpage containing relevant text.)
 
-Cull, Nicholas. "[Perspectives on Public Diplomacy." (PDF - 6.6MB)](http://uscpublicdiplomacy.org/publications/perspectives/CPDPerspectivesLessons.pdf). uscpublicdiplomacy.org, 2009.
+Cull, Nicholas. "{{% resource_link "d008aaa7-09db-49c3-a85a-f50f04483864" "Perspectives on Public Diplomacy.\" (PDF - 6.6MB)" %}}. uscpublicdiplomacy.org, 2009.
 
 **Explore**
 
-[They Rule](http://theyrule.net)
+{{% resource_link "da4f85f1-25fc-4e56-a9ca-1778bfd19aea" "They Rule" %}}
 
 
 {{< tdclose >}}
@@ -189,21 +189,21 @@ Free Cultural Labor
 
 **Core Texts**
 
-Lowenthal, Andrew. "[Free Beer vs. Free Media](http://www.undergrowth.org/free_media_v_free_beer_by_andrew_lowenthal)."
+Lowenthal, Andrew. "{{% resource_link "384ea8af-ff38-49d9-bab4-325ba19d92d2" "Free Beer vs. Free Media" %}}."
 
-Terranova, Tiziana. "[Free Labor: Producing Culture for the Digital Economy." (PDF)](http://web.mit.edu/schock/www/docs/18.2terranova.pdf) _Social Text-63_ 18, no. 2 (2000): 33–58.
+Terranova, Tiziana. "{{% resource_link "c9f28f02-79e9-4d52-88c1-ace11f170978" "Free Labor: Producing Culture for the Digital Economy.\" (PDF)" %}} _Social Text-63_ 18, no. 2 (2000): 33–58.
 
 Hesmondhalgh, D. "User-generated Content, Free Labour and the Cultural Industries." Ephemera, 2010.
 
-Schweidler, Christine, and Sasha Costanza-Chock. "[Piracy](http://vecam.org/archives/article694.html)." In _Word Matters: Multicultural Perspectives on Information Societies_. Edited by Alain Ambrosi, Valerie Peugeot, and Daniel Pimienta. Caen, 2005.
+Schweidler, Christine, and Sasha Costanza-Chock. "{{% resource_link "e6fac9af-1db7-4511-8a72-5d024e00e795" "Piracy" %}}." In _Word Matters: Multicultural Perspectives on Information Societies_. Edited by Alain Ambrosi, Valerie Peugeot, and Daniel Pimienta. Caen, 2005.
 
 **Watch**
 
 Selections from "Thought Thieve$"
 
-[Good Copy, Bad Copy](http://nyheter24.se/filmtipset/film/good-copy-bad-copy.html).
+{{% resource_link "25cdb56f-3544-467f-a482-c5b89fb2223e" "Good Copy, Bad Copy" %}}.
 
-Tim Maloney. "Gimme the Mermaid." May 27, 2006. YouTube. Accessed April 4, 2013. [http://www.youtube.com/watch?v=g9yjGiTQvGQ](http://www.youtube.com/watch?v=g9yjGiTQvGQ)
+Tim Maloney. "Gimme the Mermaid." May 27, 2006. YouTube. Accessed April 4, 2013. {{% resource_link "183d1b90-0308-4fad-924b-72bcb4291ec0" "http://www.youtube.com/watch?v=g9yjGiTQvGQ" %}}
 
 
 {{< tdclose >}}
@@ -221,31 +221,31 @@ Civic Maps
 
 **Core Texts**
 
-[Civic Maps Toolkit - Project Overview.](http://bit.ly/civicmapsprojectoverview2012)
+{{% resource_link "9da4e539-eeb1-4729-9264-b55484f07c2b" "Civic Maps Toolkit - Project Overview." %}}
 
-Meier, Patrick Phillippe. [Technical Tech: Maps for Advocacy](http://irevolution.net/2008/10/22/tactical-tech-maps/). iRevolution: From Innovation to Revolution, October 22, 2008.
+Meier, Patrick Phillippe. {{% resource_link "b7d0aa06-3709-4674-8e88-7ed8ba50df12" "Technical Tech: Maps for Advocacy" %}}. iRevolution: From Innovation to Revolution, October 22, 2008.
 
 Dignazio. 2009. "Art and Cartography." _International Encyclopedia of Human Geography, Volume 1_ edited by R. Kitchin and N. Thrift. Elsevier (2009), pp. 190–206.
 
-Ducao, Arlene, Lela Prashad, et al. "[OpenIR (Open Infrared): Enhancing Environmental Monitoring Through Accessible Remote Sensing In Indonesia and Beyond](http://dspace.mit.edu/handle/1721.1/82423)." CHI’13, April 27 – May 2, 2013, Paris, France.
+Ducao, Arlene, Lela Prashad, et al. "{{% resource_link "528dec3c-c19a-4acd-908f-19a233600ab6" "OpenIR (Open Infrared): Enhancing Environmental Monitoring Through Accessible Remote Sensing In Indonesia and Beyond" %}}." CHI’13, April 27 – May 2, 2013, Paris, France.
 
-Public Laboratory for Open Technology and Science: Dosemagen, Shannon, Jeffrey Warren, and Sarah Wylie. "[GRASSROOTS MAPPING: Creating a Participatory Map-Making Process Ccentered on Discourse](http://joaap.org/issue8/GrassrootsMapping.htm)." The Journal of Aesthetics and Protest 8 (2001).
+Public Laboratory for Open Technology and Science: Dosemagen, Shannon, Jeffrey Warren, and Sarah Wylie. "{{% resource_link "17e19c9e-6868-4d88-8c0a-602ca0eb68e3" "GRASSROOTS MAPPING: Creating a Participatory Map-Making Process Ccentered on Discourse" %}}." The Journal of Aesthetics and Protest 8 (2001).
 
-Meier, Patrick. "[What is Crisis Mapping? An Update on the Field and Looking Ahead](http://irevolution.net/2011/01/20/what-is-crisis-mapping/)." _iRevolution: From Innovation to Revolution_. January 20, 2011.
+Meier, Patrick. "{{% resource_link "f57562b7-c418-4a55-973e-cdd915d024d1" "What is Crisis Mapping? An Update on the Field and Looking Ahead" %}}." _iRevolution: From Innovation to Revolution_. January 20, 2011.
 
 Currien, Paul. "If All You Have is a Hammer: Deconstructing Humanitarian Crowdsourcing." Mobileactive.org.
 
 **Additional Texts**
 
-Meier, Patrick. "[A Brief History of Crisis Mapping](http://irevolution.net/2009/03/12/a-brief-history-of-crisis-mapping/)." _iRevolution: From Innovation to Revolution_. March 12, 2009.
+Meier, Patrick. "{{% resource_link "c68cd9fd-f87e-4bf3-b289-59c4b0a62c5f" "A Brief History of Crisis Mapping" %}}." _iRevolution: From Innovation to Revolution_. March 12, 2009.
 
 **Browse**
 
-[Meipi.org](http://meipi.org/)
+{{% resource_link "4221e1ab-aa0b-4b4a-867c-1aa51a1a84a2" "Meipi.org" %}}
 
-[OpenIR, a Media Lab Project](https://www.media.mit.edu/publications/openir-open-infrared-enhancing-environmental-monitoring-through-accessible-remote-sensing-in-indonesia-and-beyond/)
+{{% resource_link "38a11df1-5773-46c4-974f-3a084d769bb1" "OpenIR, a Media Lab Project" %}}
 
-[GrassrootsMapping.org](http://grassrootsmapping.org/)
+{{% resource_link "98747899-f50d-44c8-9cc9-29bfe6fcbcd9" "GrassrootsMapping.org" %}}
 
 
 {{< tdclose >}}
@@ -263,23 +263,23 @@ Platforms and Affordances: From Pamphleteers to Peer-to-Peer
 
 **Core Texts**
 
-Carey, James. "[Technology and Ideology: the Case of the Telegraph](http://faculty.georgetown.edu/irvinem/theory/Carey-TechnologyandIdeology.pdf)." In _Communication as Culture: Essays on Media and Society_. Routledge, 1992. ISBN: 9780415907255.
+Carey, James. "{{% resource_link "6d038ee5-3afd-4ef8-85d8-38c8f0e3eb8c" "Technology and Ideology: the Case of the Telegraph" %}}." In _Communication as Culture: Essays on Media and Society_. Routledge, 1992. ISBN: 9780415907255.
 
-Tesquet, Olivier. "[How a Handful of Geeks Defied the USSR](http://owni.fr/2011/03/13/how-a-handful-of-geeks-defied-the-ussr/)." _OWN__I_, March 13, 2011. The usenet logs are available from [cs.oswego.edu](http://www.cs.oswego.edu/~dab/coup/DENARC/).
+Tesquet, Olivier. "{{% resource_link "139b8c27-66f7-49cb-84e1-2a1614a88d40" "How a Handful of Geeks Defied the USSR" %}}." _OWN__I_, March 13, 2011. The usenet logs are available from {{% resource_link "df4c60a8-51e2-4011-9306-df8d5b2a5b17" "cs.oswego.edu" %}}.
 
-saradhya. "[How TXTMob influenced Twitter](http://nextgenerationlabor.wordpress.com/2011/04/20/how-txtmob-influenced-twitter/)." _Next Generation Labor_, April 20, 2011.
+saradhya. "{{% resource_link "b67edc28-686b-4d0e-8482-38047c218f9e" "How TXTMob influenced Twitter" %}}." _Next Generation Labor_, April 20, 2011.
 
-Sifry, Micah, L. [From TXTMob to Twitter: How an Activist Tool Took Over the Conventions](http://techpresident.com/news/22775/txtmob-twitter-how-activist-tool-took-over-conventions). Techpresident.com, April 25, 2012.
+Sifry, Micah, L. {{% resource_link "7dc8d3b7-cb88-4316-8b1e-106ff24f6f57" "From TXTMob to Twitter: How an Activist Tool Took Over the Conventions" %}}. Techpresident.com, April 25, 2012.
 
 **Additional Texts**
 
-Berger, D. "[John McMillian: Smoking Typewriters: The Sixties Underground Press and the Rise of Alternative Media in America." (PDF)](https://www.researchgate.net/publication/284148296_John_McMillian_Smoking_Typewriters_The_Sixties_Underground_Press_and_the_Rise_of_Alternative_Media_in_America) _International Journal of Communication_ 5:0 (2011).
+Berger, D. "{{% resource_link "78a6d377-4bad-413d-8424-e6a6dbac17a1" "John McMillian: Smoking Typewriters: The Sixties Underground Press and the Rise of Alternative Media in America.\" (PDF)" %}} _International Journal of Communication_ 5:0 (2011).
 
 Tridish, P., and K. Coyer. "A Radio Station In Your Hands is Worth 500 Channels of mush! The role of community radio in the struggle against corporate domination of Media." In _News Incorporated: Corporate Media Ownership and its Threat to Democracy_. Edited by Elliot D. Cohen. Prometheus Books, 2005. ISBN: 9781591022329.
 
-Browse [Association for Progressive Communication annual reports](https://www.apc.org/en/annual-reports).
+Browse {{% resource_link "552fb3fb-62fe-4354-83cb-0eccffb6a231" "Association for Progressive Communication annual reports" %}}.
 
-[John Emerson: An Introduction to Activism on the Internet](http://www.backspace.com/action/), Last Edited 2005.
+{{% resource_link "2192e0e5-53a8-48ca-8156-1e617e64a4ec" "John Emerson: An Introduction to Activism on the Internet" %}}, Last Edited 2005.
 
 
 {{< tdclose >}}
@@ -297,32 +297,31 @@ Net Culture, Civic Remix, and Kony 2012
 
 **Core Texts**
 
-Jenkins, Henry. "[Contextualizing #Kony2012: Invisible Children, Spreadable Media, and Transmedia Activism](http://henryjenkins.org/2012/03/contextualizing_kony2012_invis.html)." _Confessions of an Aca-Fan: The Official Weblog of Henry Jenkins_, March 12, 2012.
+Jenkins, Henry. "{{% resource_link "46d4590d-46e3-4dc8-87b7-8012b4779d4e" "Contextualizing #Kony2012: Invisible Children, Spreadable Media, and Transmedia Activism" %}}." _Confessions of an Aca-Fan: The Official Weblog of Henry Jenkins_, March 12, 2012.
 
-Woods, Emira. "[Top 10 Reasons Kony2012 Does More Harm than Good](http://www.africaspeaks4africa.org/?p=1441)." _Africa Speaks 4 Africa_, 2012.
+Woods, Emira. "{{% resource_link "2ed959ab-bab2-4072-8533-bc888e17be4e" "Top 10 Reasons Kony2012 Does More Harm than Good" %}}." _Africa Speaks 4 Africa_, 2012.
 
-Jardin, Xeni. "[Round Up of African Voices Respond](http://boingboing.net/2012/03/08/african-voices-respond-to-hype.html)." _BoingBoi__ng_, March 8, 2012.
+Jardin, Xeni. "{{% resource_link "5742c06f-fc84-4241-97e4-ea8522becf40" "Round Up of African Voices Respond" %}}." _BoingBoi__ng_, March 8, 2012.
 
-Gregory, Sam. "[Kony 2012: Juggling Advocacy, Audience and Agency When Using #Video4Change](http://blog.witness.org/2012/03/kony-2012-juggling-advocacy-audience-and-agency-when-using-video4change/)." _Witness Blog_, March 17, 2012.
+Gregory, Sam. "{{% resource_link "cdc17a4e-9d67-47c0-ba46-2598bea6cb9e" "Kony 2012: Juggling Advocacy, Audience and Agency When Using #Video4Change" %}}." _Witness Blog_, March 17, 2012.
 
-Zuckerman, Ethan. "[Unpacking Kony2012](http://www.ethanzuckerman.com/blog/2012/03/08/unpacking-kony-2012/)." _...My Heart's in Accra_, March 8, 2012.
+Zuckerman, Ethan. "{{% resource_link "f0695cc9-a54a-43e5-81f8-f197309037a6" "Unpacking Kony2012" %}}." _...My Heart's in Accra_, March 8, 2012.
 
 **Suggested Texts**
 
-Moore, David. ["Yochai Benkler: Blueprint for Democratic Participation](http://www.participatorypolitics.org/yochai-benkler-blueprint-for-democratic-participation/)." _Participatory Politics Foundation_, May 10, 2012.
+Moore, David. {{% resource_link "3b9cc018-2dab-4ef2-9da2-2792da4451b1" "\"Yochai Benkler: Blueprint for Democratic Participation" %}}." _Participatory Politics Foundation_, May 10, 2012.
 
 **Browse**
 
-[Civic Tripod](http://civictripod.com).
+{{% resource_link "d9c1d0f8-c0c3-4c66-ab64-58ae6ec170ca" "Civic Tripod" %}}.
 
-Browse [Macarthur Network on Youth and Participatory Politics](http://ypp.dmlcentral.net/).
+Browse {{% resource_link "eb1928b0-eccf-4b44-b3a9-795e4bf7d892" "Macarthur Network on Youth and Participatory Politics" %}}.
 
-Browse the [Civic Paths](http://civicpaths.net/) project site.[  
-](http://thehpalliance.org/)
+Browse the {{% resource_link "52ce4ab3-1d8a-4815-895b-7963d9a41d8d" "Civic Paths" %}} project site.{{% resource_link "83bf8233-e0e7-4576-892a-c5469581a2bf" "   " %}}
 
-[Harry Potter Alliance](http://thehpalliance.org/).
+{{% resource_link "83bf8233-e0e7-4576-892a-c5469581a2bf" "Harry Potter Alliance" %}}.
 
-[Participatorypolitics.org](http://www.participatorypolitics.org/).
+{{% resource_link "fe5ae4d6-be83-41f3-8c17-4efe31b58b10" "Participatorypolitics.org" %}}.
 
 
 {{< tdclose >}}
@@ -340,11 +339,11 @@ From the Barricades to the New Normal, or, From Indymedia to the Age of Citizen 
 
 **Core Texts**
 
-Kidd, Dorothy. "[Carnival to Commons](http://www.academia.edu/3894248/Carnival_to_Commons)." _In Confronting Capitalism: Dispatches from a Global Movement_. Edited by Eddie Yuen, Daniel Burton Rose and George Katsiaficas. Soft Skull Press, 2004, ISBN: 9781932360028.
+Kidd, Dorothy. "{{% resource_link "42b9bcd7-fa14-41e9-8e15-5484c7b3530d" "Carnival to Commons" %}}." _In Confronting Capitalism: Dispatches from a Global Movement_. Edited by Eddie Yuen, Daniel Burton Rose and George Katsiaficas. Soft Skull Press, 2004, ISBN: 9781932360028.
 
 Whitney, Jennifer. "Make Media, Make Real Trouble: What's Wrong (and Right) with Indymedia." In LiP magazine 'Tipping the Sacred Cow' (2005): 44-55.
 
-Juris, Jeffrey S. "[The New Digital Media and Activist Networking within Anti-Corporate Globalization Movements](http://www.jstor.org/stable/25046069)." In _The Annals of the American Academy of Political and Social Science_ 597 (2005): 189–208.
+Juris, Jeffrey S. "{{% resource_link "a622c3e2-17e8-4656-ae47-e7a5ac2ba4f8" "The New Digital Media and Activist Networking within Anti-Corporate Globalization Movements" %}}." In _The Annals of the American Academy of Political and Social Science_ 597 (2005): 189–208.
 
 **Additional Texts**
 
@@ -372,38 +371,37 @@ Freedom of Information: from the Pentagon papers to Wikileaks and Beyond
 
 **Core Texts**
 
-Assange, Julian. "[Conspiracy as Governance." (PDF)](http://estaticos.elmundo.es/documentos/2010/12/01/conspiracies.pdf) 2006.
+Assange, Julian. "{{% resource_link "6c32ebd7-4f9c-4473-9f56-7359b782b8fc" "Conspiracy as Governance.\" (PDF)" %}} 2006.
 
-EFF. [_Transparency Project_](https://www.eff.org/issues/transparency).
+EFF. {{% resource_link "7faf16f1-f25e-454a-a922-0da6eb4c0d81" "_Transparency Project_" %}}.
 
-EFF. "[History of FOIA](https://www.eff.org/issues/transparency/history-of-foia)." _Transparency Project_.
+EFF. "{{% resource_link "d7e9c35d-6546-4c8d-8d56-71bca4322860" "History of FOIA" %}}." _Transparency Project_.
 
-EFF. "[FOIA How-To](https://www.eff.org/issues/transparency/foia-how-to)." _Transparency Project_.
+EFF. "{{% resource_link "e43264cf-d5c3-430e-9cca-bc73ac555727" "FOIA How-To" %}}." _Transparency Project_.
 
-"[The Pentagon Papers](http://en.wikipedia.org/wiki/Pentagon_Papers)." _Wikipedia_.
+"{{% resource_link "d691ea8c-a4f7-4802-8baf-b17d3867ef99" "The Pentagon Papers" %}}." _Wikipedia_.
 
 **Browse**
 
 Case study: Drafting the Egyptian FOI Act
 
-Draft FoI Act by the Egyptian Initiative for Personal Rights (EIPR), Association for Freedom of Thought and Expression (AFTE) & Support for Information Technology, February, 2012. [English (PDF)](http://eipr.org/sites/default/files/pressreleases/pdf/ngos_draft_law_freedom_of_information_march2012_english.pdf.pdf) - [Arabic (PDF)](http://eipr.org/sites/default/files/pressreleases/pdf/ngos_draft_law_freedom_of_information_march2012.pdf).
+Draft FoI Act by the Egyptian Initiative for Personal Rights (EIPR), Association for Freedom of Thought and Expression (AFTE) & Support for Information Technology, February, 2012. {{% resource_link "dbd11dfa-676b-4360-8167-cb188864994e" "English (PDF)" %}} - {{% resource_link "d5dc0819-8faa-4ef3-bf24-da178641e780" "Arabic (PDF)" %}}.
 
-Draft FoI Act by the Untied Group: [English (PDF)](http://www.ug-law.com/downloads/FOI.pdf)\- [Arabic (PDF - 5.1MB)](http://www.ug-law.com/downloads/FOI-ar.pdf).
+Draft FoI Act by the Untied Group: {{% resource_link "7758b932-7de7-41c5-adc0-ef699f0502d3" "English (PDF)" %}}\- {{% resource_link "6df9c896-f3da-4ebc-8b03-7fca1d582a9c" "Arabic (PDF - 5.1MB)" %}}.
 
-nashtc. "[Across America, Sunshine is Under Attack](https://muckrocknews.wordpress.com/2012/03/17/across-america-sunshine-is-under-attack/)." _MuckRock Reporter's Notebook_, March 17, 2012.
+nashtc. "{{% resource_link "eaf224dc-dfba-463c-8cea-ec80b47f5583" "Across America, Sunshine is Under Attack" %}}." _MuckRock Reporter's Notebook_, March 17, 2012.
 
-Taylor, Richard. ["WhatDoTheyKnow – Oral Evidence to MPs on First Five Years of FOI in the UK](http://www.mysociety.org/2012/02/21/whatdotheyknow-justice-ctte/)." _My Society_, February 21, 2012.
+Taylor, Richard. {{% resource_link "a28022a9-8852-4c8b-bf6b-78019e3eca01" "\"WhatDoTheyKnow – Oral Evidence to MPs on First Five Years of FOI in the UK" %}}." _My Society_, February 21, 2012.
 
-Noveck, Beth. "[Wiki-Government: How Open-Source Technology Can Make Government Decision-Making More Expert and More Democratic." (PDF)](http://llk.media.mit.edu/courses/readings/wiki-government.pdf) _Democracyjournal.org_, 2008.
+Noveck, Beth. "{{% resource_link "f7a18477-8fac-44de-a84a-c76efe6ae4db" "Wiki-Government: How Open-Source Technology Can Make Government Decision-Making More Expert and More Democratic.\" (PDF)" %}} _Democracyjournal.org_, 2008.
 
 **Suggested Sites**
 
-Taylor, Richard. "[WhatDoTheyKnow - Oral Evidence to MPs on First Five Years of FOI in UK](http://www.mysociety.org/2012/02/21/whatdotheyknow-justice-ctte/)." _MySociety.org_, February 21, 2012.[  
-](https://www.muckrock.com/)
+Taylor, Richard. "{{% resource_link "a28022a9-8852-4c8b-bf6b-78019e3eca01" "WhatDoTheyKnow - Oral Evidence to MPs on First Five Years of FOI in UK" %}}." _MySociety.org_, February 21, 2012.{{% resource_link "1585e5fa-d6af-479a-add0-47cdcd98dd48" "   " %}}
 
-[MuckRock](https://www.muckrock.com/).
+{{% resource_link "1585e5fa-d6af-479a-add0-47cdcd98dd48" "MuckRock" %}}.
 
-ACLU: [What is FOIA?](http://www.whatisfoia.org/).
+ACLU: {{% resource_link "972af5f3-2f3d-4138-8984-fe81459a1a37" "What is FOIA?" %}}.
 
 
 {{< tdclose >}}
@@ -421,9 +419,9 @@ Mobile Civic Media
 
 **Core Texts**
 
-beckyh. "[Case Study: New Day New Standard, an Interactive Voice Hotline Powered by VOIP Drupal](http://civic.mit.edu/blog/beckyh/case-study-ndns-voip-drupal)." _Center for Civic Media_, May 31, 2012.
+beckyh. "{{% resource_link "5adecc07-aa34-485c-a114-a34673b68359" "Case Study: New Day New Standard, an Interactive Voice Hotline Powered by VOIP Drupal" %}}." _Center for Civic Media_, May 31, 2012.
 
-Napoli, Philip, and Minna Aslama. "[Mobile Voices: Projecting The Voices Of Immigrant Workers By Appropriating Mobile Phones for Popular Communication." (PDF)](http://web.mit.edu/schock/www/docs/vozmob-chapter-cra.pdf) In _Communications Research in Action: Scholar-Activist Collaborations for a Democratic Public Sphere_. Fordham University Press, VozMob project, 2010. ISBN: 978.0823233472.
+Napoli, Philip, and Minna Aslama. "{{% resource_link "7b9b1f63-ccfc-4401-a6ab-7364aaf369a1" "Mobile Voices: Projecting The Voices Of Immigrant Workers By Appropriating Mobile Phones for Popular Communication.\" (PDF)" %}} In _Communications Research in Action: Scholar-Activist Collaborations for a Democratic Public Sphere_. Fordham University Press, VozMob project, 2010. ISBN: 978.0823233472.
 
 **Other Media**
 
@@ -431,24 +429,24 @@ Call
 
 New Day New Standard (646-699-3989) to learn about the NY Domestic Workers' Bill of Rights
 
-Call [Sandy Storyline](http://www.sandystoryline.com/) to hear stories from people affected by Hurricane Sandy.
+Call {{% resource_link "460d4f10-77c1-454a-9dcf-350b391b25ee" "Sandy Storyline" %}} to hear stories from people affected by Hurricane Sandy.
 
 SMS
 
-Text FISH and the name of a species to the [Blue Ocean Institute](http://www.mobilecommons.com/case-studies/blue-ocean-institute/) (30644) to learn it's environmental or health impact.
+Text FISH and the name of a species to the {{% resource_link "2cb14bc4-d281-4751-80e7-895e3c97223d" "Blue Ocean Institute" %}} (30644) to learn it's environmental or health impact.
 
 Install
 
-*   [FlyRights](http://fly-rights.org/).
-*   [Stop and Frisk App](http://www.nyclu.org/app).
+*   {{% resource_link "86ad6656-8f73-4104-b22f-17f38a4f7040" "FlyRights" %}}.
+*   {{% resource_link "1aae1fd9-cfbb-4ef9-9358-609383fb71ee" "Stop and Frisk App" %}}.
 
 **Browse**
 
-[MobileCommons.org](http://MobileCommons.org).
+{{% resource_link "172f0f1c-e9a2-4917-ba15-9b2e2e2cf55a" "MobileCommons.org" %}}.
 
-[FrontlineSMS](http://www.frontlinesms.com/).
+{{% resource_link "ba958dde-ffe8-47ba-9491-e25b622cd498" "FrontlineSMS" %}}.
 
-[OpenDataKit](http://opendatakit.org/).
+{{% resource_link "3baa1be4-ff41-400c-9426-e2915c06a617" "OpenDataKit" %}}.
 
 
 {{< tdclose >}}
@@ -466,27 +464,27 @@ Civil Disobedience and Hacktivism, from the Black Bloc to DDOS and Beyond
 
 **Core Texts**
 
-Thoreau, Henry David. "[Civil Disobedience](http://xroads.virginia.edu/~hyper2/thoreau/civil.html)." _Thoreau Reader_, 1849.
+Thoreau, Henry David. "{{% resource_link "4efdcb34-3c72-444b-87ea-8ef9d861ef0f" "Civil Disobedience" %}}." _Thoreau Reader_, 1849.
 
-Selections from Critical Art Ensemble, _Electronic Civil Disobedience_. 2009. \[Read at least "[Chapter 1. Electronic Civil Disobedience](http://critical-art.net/electronic-civil-disobedience-1996/)."\]
+Selections from Critical Art Ensemble, _Electronic Civil Disobedience_. 2009. \[Read at least "{{% resource_link "9d5dc0ea-2886-4c83-a587-b3f8380d3481" "Chapter 1. Electronic Civil Disobedience" %}}."\]
 
-Coleman, Gabriella. "[Anonymous: From the Lulz to Collective Action](http://mediacommons.futureofthebook.org/tne/pieces/anonymous-lulz-collective-action)." _The New Significance_, May 9, 2011.
+Coleman, Gabriella. "{{% resource_link "1059b9b9-7a3f-43ab-9bed-76690adebf47" "Anonymous: From the Lulz to Collective Action" %}}." _The New Significance_, May 9, 2011.
 
-Costanza-Chock, Sasha. "[Mapping the Repertoire of Electronic Contention](http://www.researchgate.net/publication/253902534_MAPPING_THE_REPERTOIRE_OF_ELECTRONIC_CONTENTION)." 2001.
+Costanza-Chock, Sasha. "{{% resource_link "3163adb4-71a1-41b9-85bf-8c14f8dd371f" "Mapping the Repertoire of Electronic Contention" %}}." 2001.
 
 Sauter, Molly. "LOIC Will Tear Us Apart: The Impact of Tool Design and Media Portrayals in the Success of Activitst DDOS Attacks." 2013.
 
-Fuchs, Christian. "[Social Media and the UK Riots: 'Twitter Mobs,' 'Facebook Mobs,' 'Blackberry Mobs' and the Structural Violence of Neoliberalism](http://fuchs.uti.at/667/)." _Information - Society - Technology & Media_, August 10, 2011.
+Fuchs, Christian. "{{% resource_link "0b0c62b9-0f0a-481a-a059-c012621d91c2" "Social Media and the UK Riots: 'Twitter Mobs,' 'Facebook Mobs,' 'Blackberry Mobs' and the Structural Violence of Neoliberalism" %}}." _Information - Society - Technology & Media_, August 10, 2011.
 
 **Browse**
 
-[Electronic Disturbance Theater](http://www.thing.net/~rdom/ecd/ecd.html).
+{{% resource_link "4c3c2e7a-2d8a-4f21-ae67-a9b94bf830ed" "Electronic Disturbance Theater" %}}.
 
 **Suggested Texts**
 
 MOAR critical art ensemble?
 
-LulzSec: text included w/'Chinga la Migra' release. [piratebay.se](http://thepiratebay.org/torrent/6490796/Chinga_La_Migra).
+LulzSec: text included w/'Chinga la Migra' release. {{% resource_link "52c166d3-9872-419a-a4e3-28323296193e" "piratebay.se" %}}.
 
 
 {{< tdclose >}}
@@ -504,21 +502,21 @@ Video Activism, Free Software, and Human Rights in the Asia-Pacific Region
 
 **Core Texts (and Video)**
 
-Jenkins, Henry and Sasha Costanza-Chock. "[DIY Video 2010: Activist Media (Part One)](http://henryjenkins.org/2010/10/diy_video_2010_activist_media.html)." _Confessions of an Aca-Fan: The Official Weblog of Henry Jenkins._
+Jenkins, Henry and Sasha Costanza-Chock. "{{% resource_link "87c1a8cf-6027-4d9b-94d9-ba62e8b25151" "DIY Video 2010: Activist Media (Part One)" %}}." _Confessions of an Aca-Fan: The Official Weblog of Henry Jenkins._
 
-———. "[DIY Video 2010: Activist Media (Part Two)](http://henryjenkins.org/2010/10/diy_video_2010_activist_media_1.html)."
+———. "{{% resource_link "b81057ad-1530-461a-b13f-07f3537f0985" "DIY Video 2010: Activist Media (Part Two)" %}}."
 
-———. "[DIY Video 2010: Activist Media (Part Three)](http://henryjenkins.org/2010/11/diy_video_2010_activist_media_2.html)."
+———. "{{% resource_link "7b54b622-4676-49c3-b15f-a372c3a951b1" "DIY Video 2010: Activist Media (Part Three)" %}}."
 
-"[Cameras Everywhere Report - 2011](https://www.ohchr.org/Documents/Issues/Opinion/Communications/Witness_1.pdf)." _Witness_, 2011.
+"{{% resource_link "fd9b87ed-5e39-4e80-be35-6ac6c69380a0" "Cameras Everywhere Report - 2011" %}}." _Witness_, 2011.
 
 **Browse**
 
-[EngageMedia](http://www.engagemedia.org/).
+{{% resource_link "6bed5417-6781-47f0-bc98-2a0492e47bc5" "EngageMedia" %}}.
 
-[Video Chronic](https://www.engagemedia.org/Projects/videochronic).
+{{% resource_link "bd5512b6-c3da-4f99-9694-880851ad9c06" "Video Chronic" %}}.
 
-[Papuan Voices](http://papuanvoices.net).
+{{% resource_link "ff9f8050-7e04-4c85-b7c1-8f054bc660fc" "Papuan Voices" %}}.
 
 
 {{< tdclose >}}
@@ -541,20 +539,20 @@ No readings
 
 Additional films recommended:
 
-[_This is What Democracy Looks Like_](http://www.imdb.com/title/tt0265871/). Directed by Jill Friedberg and Rick Rowley. Color, 72 min. 2000.
+{{% resource_link "d941945d-02a4-48dd-8ead-dbe93f5d2799" "_This is What Democracy Looks Like_" %}}. Directed by Jill Friedberg and Rick Rowley. Color, 72 min. 2000.
 
-[_Un Pocito de Tanta Verdad_](http://www.imdb.com/title/tt1119655/). Directed by Jill Friedberg. Color, 90 min. 2007.
+{{% resource_link "95bdc348-6dad-4abe-afd0-d9df5ed6fd6c" "_Un Pocito de Tanta Verdad_" %}}. Directed by Jill Friedberg. Color, 90 min. 2007.
 
-[_Control Room_](http://www.imdb.com/title/tt0391024/). Directed by Jehane Noujaim. Color, 84 min. 2004.
+{{% resource_link "66e90063-0e9a-40dd-986a-123b5c09e785" "_Control Room_" %}}. Directed by Jehane Noujaim. Color, 84 min. 2004.
 
-[_The Revolution Will Not Be Televised_](http://www.imdb.com/title/tt0363510/). Directed by Kim Bartley and Donnacha O'Briain. Color, 74 min. 2003.
+{{% resource_link "8a517cce-93c1-4396-a4c6-7b23335799e1" "_The Revolution Will Not Be Televised_" %}}. Directed by Kim Bartley and Donnacha O'Briain. Color, 74 min. 2003.
 
-[_The Century of the Self_](http://www.imdb.com/title/tt0432232/). Directed by Adam Curtis. Color, 240 min. 2002.
+{{% resource_link "68092120-cfb5-4f25-8550-273c585a59cc" "_The Century of the Self_" %}}. Directed by Adam Curtis. Color, 240 min. 2002.
 
-[_Get on the Bus_](http://www.imdb.com/title/tt0116404/). Directed by Spike Lee. Color, 120 min. American Experience, 1996.
+{{% resource_link "cc9dcf5a-7d4e-4162-8d00-cf018681092e" "_Get on the Bus_" %}}. Directed by Spike Lee. Color, 120 min. American Experience, 1996.
 
-[Page One](http://www.magpictures.com/pageone/)
+{{% resource_link "7f448a52-3b6c-4722-8224-a9df14f0d41c" "Page One" %}}
 
-[_It Gets Better_](http://www.imdb.com/title/tt2282286/). Directed by Liesel Reinhart. Color, 42 min. Selections, 2012.
+{{% resource_link "2067d117-3b46-4d5a-b00b-4fd11ad5d55f" "_It Gets Better_" %}}. Directed by Liesel Reinhart. Color, 42 min. Selections, 2012.
 
 Video Activism selections from DIY 24/7
