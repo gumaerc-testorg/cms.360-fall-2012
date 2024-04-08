@@ -15,6 +15,6 @@ Mobile Civic Media
 
 In class:
 
-*   We'll use [Vojo](http://vojo.co/) and our phones to create a multimedia map of something interesting.
+*   We'll use {{% resource_link "689e6203-fa40-4b08-be31-f2cbd253922f" "Vojo" %}} and our phones to create a multimedia map of something interesting.
 
 {{% resource_link "bb2b6672-555e-ea5b-16c9-9f46f09d4283" "« return to classroom notes" %}}

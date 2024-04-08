@@ -25,7 +25,7 @@ A complete final project includes the following:
 
 In session 4, project proposals will be due. Come up with 3 short project proposal ideas (one to three sentences each) and add them to. You can also write '+1' or your initials next to proposal ideas that you think are especially interesting and would consider joining for a group project.
 
-During the last class meeting, each student (or project team) will formally present their final project as an [IGNITE talk](http://en.wikipedia.org/wiki/Ignite_(event)) (5 minutes, 20 slides, 15 seconds per slide, automatically advanced. Final projects are due on this date. Late projects will not be considered.
+During the last class meeting, each student (or project team) will formally present their final project as an {{% resource_link "4c91de9b-1b9a-4fa5-b8a1-3a66c3383db9" "IGNITE talk" %}} (5 minutes, 20 slides, 15 seconds per slide, automatically advanced. Final projects are due on this date. Late projects will not be considered.
 
 When developing final projects, consider the following theories, frames, platforms, geographic contexts, and uses of Civic Media:
 
@@ -42,28 +42,28 @@ Other potential themes:
 *   Selections from Center for Media Justice reports
 *   Selections from Berkman reports
 *   Selections from New America Foundation reports
-*   Review [IJOC Special Sections](http://ijoc.org/)
-*   [Collaborative Futures](http://collaborative-futures.org/)
+*   Review {{% resource_link "f3ecb715-444c-4438-940a-b02ee3786bab" "IJOC Special Sections" %}}
+*   {{% resource_link "9d8fc34b-f39e-4f24-b346-c070ac01be48" "Collaborative Futures" %}}
 *   Suggestions from Henry
-*   Dougherty, Audobon. "[_New Medium, New Practice: Civic Production in Live-Streaming Mobile Video_." (PDF - 1.9MB)](https://cms.mit.edu/civic-production-in-live-streaming-mobile-video/)
-*   [Center for Civic Media and CMS theses](http://cms.mit.edu/research/theses.php)
-*   [Our World, Digitized: Cass Sunstein, Yochai Benkler, and Henry Jenkins](https://cmsw.mit.edu/yochai-benkler-and-cass-sunstein/)
-*   [Youth and Civic Engagement](https://commforum.mit.edu/youth-and-civic-engagement-d450f94cea4a)
+*   Dougherty, Audobon. "{{% resource_link "4db71085-fa84-4fb1-83a7-c7af96484e6c" "_New Medium, New Practice: Civic Production in Live-Streaming Mobile Video_.\" (PDF - 1.9MB)" %}}
+*   {{% resource_link "9e6f41a9-606a-48ed-a2b7-0f710cadd9dc" "Center for Civic Media and CMS theses" %}}
+*   {{% resource_link "099e338f-55c1-416c-b680-94e7ddddc913" "Our World, Digitized: Cass Sunstein, Yochai Benkler, and Henry Jenkins" %}}
+*   {{% resource_link "53a57bac-cae1-4903-ad3d-fa484071ceb1" "Youth and Civic Engagement" %}}
 *   [Politics and Popular Culture](https://commforum.mit.edu/politics-and-popular-culture-8848ab9d272b
         #abstract)
 *   [Civics and Difficult Places](https://commforum.mit.edu/civics-in-difficult-places-1e1c4a085ff7
     #abstract)
-*   [Communications in Slow Moving Crisis](https://commforum.mit.edu/communications-in-slow-moving-crises-b80ad4e21d14)
-*   Cunningham, Dayna. "[Can African-Americans Find Their Voice in Cyberspace?](http://henryjenkins.org/2009/03/can_african-americans_find_the.html)" \[parts 1-4\]
+*   {{% resource_link "08d53f82-3087-4084-b69e-43f0dfd1143c" "Communications in Slow Moving Crisis" %}}
+*   Cunningham, Dayna. "{{% resource_link "b13af0e3-0942-463f-99ec-76b042b40e5e" "Can African-Americans Find Their Voice in Cyberspace?" %}}" \[parts 1-4\]
 *   An essay by Joshua McVeigh-Schultz which explores issues of citizen voice and plebiscite entertainment, ending with some ideas for the design of civic media.
 *   Alexdrina Agloro on the differences that new media made in the Rodney King and Oscar Grant trials.
-*   Bimber, et al. "[Reconceptualizing Collective Action in the Contemporary Media Environment." (PDF)](http://ucsbsocialcomputing.pbworks.com/f/bimber,+et+al.pdf)
-*   [The Organic Internet](https://link.springer.com/chapter/10.1007/978-3-319-66592-4_13)
+*   Bimber, et al. "{{% resource_link "5324136f-ab0b-47bc-8206-a2d2c8161d70" "Reconceptualizing Collective Action in the Contemporary Media Environment.\" (PDF)" %}}
+*   {{% resource_link "a9e6cef5-0285-43e8-ac6d-efa0f85e02a2" "The Organic Internet" %}}
 
 Note: below you can find several examples of final projects from last year’s Intro to Civic Media class that received an 'A' grade.
 
-*   Gabi Schaffzin, "[Preoccupied with Occupation: Habermas, Prefigurative Politics, Effective Protest Center](https://civic.mit.edu/2011/12/23/pre-occupied-with-occupation-habermas-prefigurative-politics-effective-protest-center/)."
-*   Ania Shapiro, "[Digital Discourse and Civic Engagement in Ukraine](https://civic.mit.edu/2011/12/18/final-project-post/)."
-*   Hailey Lee and Mary Kenefake, "[Television Newsroom Diversity and Civic Engagement](https://civic.mit.edu/2011/12/20/television-newsroom-diversity-and-civic-engagement/)."
+*   Gabi Schaffzin, "{{% resource_link "798792c1-d93e-4bcd-b31c-19713f949176" "Preoccupied with Occupation: Habermas, Prefigurative Politics, Effective Protest Center" %}}."
+*   Ania Shapiro, "{{% resource_link "e1c1f346-de66-46a1-8edc-db9bb98e02ea" "Digital Discourse and Civic Engagement in Ukraine" %}}."
+*   Hailey Lee and Mary Kenefake, "{{% resource_link "4ba480bc-e9c6-4018-b6a2-ba6060c1328b" "Television Newsroom Diversity and Civic Engagement" %}}."
 
 « {{% resource_link "52607be9-aea6-7507-7c9b-63208de1dc23" "Back to Assignments" %}}
