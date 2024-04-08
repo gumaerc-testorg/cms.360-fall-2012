@@ -35,7 +35,7 @@ Students who complete Introduction to Civic Media will be able to:
 
 ## Learning Tools and Activities
 
-In addition to reading and in-class discussion, participants in this course will work together intensively thro ghout the semester to develop a shared practice of real-time collaborative note-taking, writing & editing, and public participation in debates about civic media via the course blog. We'll also share links via Twitter using the [#civicmedia hashtag](https://twitter.com/search?q=%23civicmedia).
+In addition to reading and in-class discussion, participants in this course will work together intensively thro ghout the semester to develop a shared practice of real-time collaborative note-taking, writing & editing, and public participation in debates about civic media via the course blog. We'll also share links via Twitter using the {{% resource_link "a357f121-2c55-4d3a-8ab3-5f82492805b3" "#civicmedia hashtag" %}}.
 
 Learning activities include:
 
@@ -80,11 +80,11 @@ Final Project and Presentation
 
 ## A Note about Blogging and Anonymity
 
-All participants in the course are expected to post regular blog entries on a publicly accessible site (the [course blog](http://civic.mit.edu/blog)). You may, however, choose to remain anonymous (actually, pseudonymous) by publishing under a pseudonym not easily linkable to your real name.
+All participants in the course are expected to post regular blog entries on a publicly accessible site (the {{% resource_link "4ac2e7c8-0b47-43a7-963a-99ccd5da650b" "course blog" %}}). You may, however, choose to remain anonymous (actually, pseudonymous) by publishing under a pseudonym not easily linkable to your real name.
 
 ## Required Statement on Plagiarism
 
-Plagiarism - use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the CMS Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted (or linked). Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and the [MIT Website on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Plagiarism - use of another's intellectual work without acknowledgement - is a serious offense. It is the policy of the CMS Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted (or linked). Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the {{% resource_link "ecc679fa-9c0b-46d3-9752-8c59766fdae0" "Writing and Communication Center" %}} and the {{% resource_link "7887bb42-8b7c-4316-a766-4fa4c6a985a7" "MIT Website on Plagiarism" %}}.
 
 ## Calendar
 
