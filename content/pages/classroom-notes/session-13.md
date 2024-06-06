@@ -18,6 +18,6 @@ In class:
 
 *   Discuss texts!
 *   Guest speaker: Charlie DeTar.
-*   If time allows: watch "{{% resource_link "aabe30fb-87c7-4f66-871b-0a149b27621b" "We Are Legion" %}}."
+*   If time allows: watch "[We Are Legion](http://wearelegionthedocumentary.com/)."
 
 {{% resource_link "bb2b6672-555e-ea5b-16c9-9f46f09d4283" "« return to classroom notes" %}}
