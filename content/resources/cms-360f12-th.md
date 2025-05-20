@@ -3,7 +3,7 @@ content_type: resource
 description: Mobile phones and smart phones were used by citizen journalists, protesters,
   and onlookers to organize and document the Arab Spring. Photo courtesy of nebedaay
   on Flickr. CC-BY-NC-SA.
-file: /ol-ocw-studio-app/courses/cms-360-introduction-to-civic-media-fall-2012/abfd80ac6733543d9e6d019c54784c13_cms-360f12-th.jpg
+file: /courses/cms-360-introduction-to-civic-media-fall-2012/abfd80ac6733543d9e6d019c54784c13_cms-360f12-th.jpg
 file_size: 6382
 file_type: image/jpeg
 image_metadata:
