@@ -20,9 +20,9 @@ Visiting facilitators:
 
 [**Catherine D'Ignazio**](http://www.kanarinka.com/) : A current student with the Center for Civic Media, director of the Institute for Infinitely Small Things and the [Experimental Geography Cluster at RISD](https://brianhouse.net/teaching/2013_spring/experimental_geography/) and proponent of experimental mapping as civic action.
 
-[**Arlene Ducao**](http://web.media.mit.edu/~arlduc/) : A current student at and creative computerist at the MIT Media Lab and coresident of Boston and Brooklyn where she is working on, among other things, [OpenIR](https://www.media.mit.edu/publications/openir-open-infrared-enhancing-environmental-monitoring-through-accessible-remote-sensing-in-indonesia-and-beyond/), making geo-located infrared data available for civic purposes.
+[**Arlene Ducao**](https://www.media.mit.edu/people/arlduc/overview/) : A current student at and creative computerist at the MIT Media Lab and coresident of Boston and Brooklyn where she is working on, among other things, [OpenIR](https://www.media.mit.edu/publications/openir-open-infrared-enhancing-environmental-monitoring-through-accessible-remote-sensing-in-indonesia-and-beyond/), making geo-located infrared data available for civic purposes.
 
-[**Pablo Rey**](https://www.pablorey-art.com/biography) : Visiting researcher with the Center for Civic Media and creator of civic mapping platforms [Meipi](http://meipi.org/) and [Basurama](http://basurama.org/en/).
+[**Pablo Rey**](https://www.pablorey.com.ar/about-us/) : Visiting researcher with the Center for Civic Media and creator of civic mapping platforms [Meipi](http://meipi.org/) and [Basurama](http://basurama.org/en/).
 
 [**Jeff Warren**](http://unterbahn.com/) **:** Researcher with [Grassroots Mapping](http://grassrootsmapping.org/), enablers of balloon and kite mapping.
 
@@ -37,15 +37,15 @@ In class:
 - 5 min break.
 - Pablo talks about Meipi and Basurama. (15 min)
 - Jeff talks about Grassroots mapping. (30 min)
-- Hands on: Local Ground. (15 min)    
+- Hands on: Local Ground. (15 min)      
       
      
 
 ### Resources
 
-- (Choose by theme) - choose a category you are interested in, get the contact info of the other students in the category; write up 5 resources that you find, keep in touch with each other about which resources you are writing about so that you don't duplicate. [Storymaps](http://storymaps.esri.com/home/) may also be interesting.    
+- (Choose by theme) - choose a category you are interested in, get the contact info of the other students in the category; write up 5 resources that you find, keep in touch with each other about which resources you are writing about so that you don't duplicate. [Storymaps](http://storymaps.esri.com/home/) may also be interesting.      
       
-    Take some time to brainstorm kinds of resources (when writing up, use tagging/writing instructions~)!.    
+    Take some time to brainstorm kinds of resources (when writing up, use tagging/writing instructions~)!.      
       
     - Walking Papers is a tool to submit hand-drawn contributions to [http://www.openstreetmap.org/](http://www.openstreetmap.org/) with corrections for new streets and street formations and details about the ways that buildings are occupied—public, private, residential, businesses. You can print out a map with a QR code, annotate by hand and send to Walking Papers who contribute it to OpenStreetMaps. The goal of Open Street Maps is to geospatial data in an open way to update and correct for the geospatial data sets available commercially that may be incorrect, out of date, misrepresentative.
     - [Local Ground](http://localground.org/) is a similar tool, but for creating your own maps rather than contributing to another mapping project. You can see [examples of use](http://localground.org/pages/about/) on their website.
@@ -80,7 +80,7 @@ From our list or if you know of others and are excited about them as Civic maps.
 - mapping projects
 - NOTE: resources for students: our [brainstorm](http://bit.ly/civicmapscasesresourcesinterview), articles, look for other aggregations of resources, etc.
 
-Hands-on workshop:    
+Hands-on workshop:      
 \[#hurricanehacking!\]
 
 *In groups of 2–3, create an annotated critique of Kony2012 (using critical commons, Zeega, popcorn js, macro generators, or any tool of your choice. And/or: newsjack.in.)*
