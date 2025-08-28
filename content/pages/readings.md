@@ -35,7 +35,7 @@ Hargittai, E. "[The Digital Reproduction of Inequality](http://webuse.org/p/c11/
 
 Modarres, Ali and Bill Pitkin. "[Technology and The Geography Of Inequality In Los Angeles](http://www.distributedworkplace.com/DW/Research/Assessing%20the%20Digital%20Divide%20and%20Los%20Angeles%20County.pdf)." Pat Brown Public Policy Institute, 2006.
 
-MIT Communications Forum: "\[What is Civic Media?\]([https://commforum.mit.edu/what-is-civic-media-b9c8d46652c3](https://commforum.mit.edu/what-is-civic-media-b9c8d46652c3)         
+MIT Communications Forum: "\[What is Civic Media?\]([https://commforum.mit.edu/what-is-civic-media-b9c8d46652c3](https://commforum.mit.edu/what-is-civic-media-b9c8d46652c3)           
 )" September 20, 2007.
 
 **Additional Texts**
@@ -100,7 +100,7 @@ Cunningham, Dayna. "[Can African-Americans find Their Voice in Cyberspace?" \[pa
 
 [Center For Media Justice](https://mediajustice.org/).
 
-[Media Justice Resources](https://mediajustice.org/resources/) at the [Media Justice History Project](http://mediajusticehistoryproject.org/). Choose one to summarize and place in dialogue with the readings.
+[Media Justice Resources](https://web.archive.org/web/20240620054522/https://www.mediajusticehistoryproject.org/archives/151) at the Media Justice History Project. Choose one to summarize and place in dialogue with the readings.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -120,7 +120,7 @@ Read abstracts from the [*Media and Propaganda Conference*](http://web4.uwindsor
 
 Uricchio, William. "[Displacing Culture: Trans-National Culture, Regional Elites, and the Challenge to National Cinema." (PDF)](http://web.mit.edu/uricchio/Public/pdfs/pdfs/Displacing%20Culture.pdf) In *Trading Culture: GATT, European Cultural Policies and the Transatlantic Market*. Edited by A. van Hemel, H. Mommas, C. Smithuijsen. Boekmanstichting, 1996, pp. 67–82.
 
-Selections from Herman, Edward S. and Noam Chomsky. \[*Manufacturing Consent* (PDF - 4MB)\]([https://focalizalaatencion.files.wordpress.com/2012/08/herman-chomsky-2002-manufacturingconsent.pdf](https://focalizalaatencion.files.wordpress.com/2012/08/herman-chomsky-2002-manufacturingconsent.pdf)         
+Selections from Herman, Edward S. and Noam Chomsky. \[*Manufacturing Consent* (PDF - 4MB)\]([https://focalizalaatencion.files.wordpress.com/2012/08/herman-chomsky-2002-manufacturingconsent.pdf](https://focalizalaatencion.files.wordpress.com/2012/08/herman-chomsky-2002-manufacturingconsent.pdf)           
 ). Pantheon Books, 1988. (This is a link to a webpage containing relevant text.)
 
 Cull, Nicholas. "[Perspectives on Public Diplomacy." (PDF - 6.6MB)](http://uscpublicdiplomacy.org/publications/perspectives/CPDPerspectivesLessons.pdf). uscpublicdiplomacy.org, 2009.
@@ -163,7 +163,7 @@ Civic Maps
 
 [Civic Maps Toolkit - Project Overview.](http://bit.ly/civicmapsprojectoverview2012)
 
-Meier, Patrick Phillippe. [Technical Tech: Maps for Advocacy](http://irevolution.net/2008/10/22/tactical-tech-maps/). iRevolution: From Innovation to Revolution, October 22, 2008.
+Meier, Patrick Phillippe. Technical Tech: Maps for Advocacy. iRevolution: From Innovation to Revolution, October 22, 2008.
 
 Dignazio. 2009. "Art and Cartography." *International Encyclopedia of Human Geography, Volume 1* edited by R. Kitchin and N. Thrift. Elsevier (2009), pp. 190–206.
 
