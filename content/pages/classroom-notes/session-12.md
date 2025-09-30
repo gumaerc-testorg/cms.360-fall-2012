@@ -14,6 +14,6 @@ uid: 7c23a907-32d8-7418-57ca-f909433616ec
 
 In class:
 
-- We'll use [Vojo](https://www.media.mit.edu/projects/vojoco/overview/) and our phones to create a multimedia map of something interesting.
+- We'll use {{% resource_link "51a1701f-4968-4a35-8aba-72ca62866a62" "Vojo" %}} and our phones to create a multimedia map of something interesting.
 
 {{% resource_link "bb2b6672-555e-ea5b-16c9-9f46f09d4283" "« return to classroom notes" %}}
